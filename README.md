@@ -71,6 +71,4 @@ Evidência em vídeo da execução dos testes (tela e terminal).
 Código armazenado em um repositório Git público.
 
 
-Licença
 
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
